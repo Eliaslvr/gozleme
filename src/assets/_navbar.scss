@@ -1,0 +1,31 @@
+// .image {
+//     display: flex;
+//     justify-content: center;
+//     align-items: center;
+
+// }
+
+// image img {
+//     width: 350px;
+//     height: 150px;
+// }
+
+.image {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    background-color: white; 
+    text-align: center;
+}
+
+.image img {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1200px;
+    margin: 0 auto; /* Centrer la barre de navigation horizontalement */
+    padding: 0 20px;
+    width: 250px;
+    height: 130px;
+}

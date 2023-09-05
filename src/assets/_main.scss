@@ -1,0 +1,44 @@
+.main {
+    margin-top: 180px;
+}
+
+.nameChoice {
+    display: flex;
+    justify-content: center;
+    color: red;
+    font-weight: bold;
+    padding-bottom: 8px;
+    padding-top: 8PX;
+    font-size: 20px;
+}
+
+.gray {
+        border-bottom: 2px solid rgb(211, 211, 211);
+        border-top: 2px solid rgb(211, 211, 211);
+        background-color: rgb(241, 241, 241);
+    }
+
+.title {
+    margin: 16px 0 20px 30px;
+}
+
+.element {
+    margin-bottom: 4px;
+    font-weight: bold;
+}
+
+.info {
+    color: gray;
+}
+
+.price {
+    margin: 0 0 11px 30px;
+}
+
+.priceColor {
+    color: gray;
+}
+
+.numberPrice {
+    font-weight: 600;
+}
